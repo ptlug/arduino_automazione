@@ -43,7 +43,7 @@ I potenziometri sono letti quando si accende il led verde.
 Il tasto reset può essere usato come emergenza per bloccare il ciclo e rilasciare immediatamente il relè. Se non si usa, può essere omesso, lasciando un pull-up su RB3.
 
   CREATO IL 14 DICEMBRE 2016
-  AGGIORNATO AL 25/02/2017
+  AGGIORNATO AL 20/10/2018
   by MICHELE BIANCALANI
  */
 
