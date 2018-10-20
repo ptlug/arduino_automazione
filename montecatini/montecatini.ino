@@ -44,7 +44,7 @@ Il tasto reset può essere usato come emergenza per bloccare il ciclo e rilascia
 
   CREATO IL 14 DICEMBRE 2016
   AGGIORNATO AL 20/10/2018
-  by MICHELE BIANCALANI
+  by MICHELE BIANCALANI for arduino Nano
  */
 
 // COSTANTI PROGRAMMA
